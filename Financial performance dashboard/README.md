@@ -1,13 +1,13 @@
-## 📊 Financial Performance Dashboard
+# 📊 Financial Performance Dashboard
 
-# 📌 Project Overview:
+## 📌 Project Overview:
 
 This Power BI dashboard provides a comprehensive analysis of financial performance by evaluating key metrics such as Sales, Profit, Orders, Profit Margin, and Discount trends.
 
 The dashboard compares current year performance with prior year data to track growth, identify high-performing regions, and analyze product-level profitability.
 
 
-# 🎯 Objectives
+## 🎯 Objectives
 
 - Analyze year-over-year financial performance
 
@@ -20,7 +20,7 @@ The dashboard compares current year performance with prior year data to track gr
 - Track monthly and yearly sales trends
 
 
-# 📊 Key KPIs
+## 📊 Key KPIs
 
 💰 Total Sales: 9.23M
 
@@ -33,40 +33,40 @@ The dashboard compares current year performance with prior year data to track gr
 🏷 Total Discount: 7.05M
 
 
-# 📈 Dashboard Insights:
+## 📈 Dashboard Insights:
 
-🌍 Orders by Country
+🌍 Orders by Country-
 
 Canada and France generate the highest number of orders.
 
 Strong contribution from the United States and Germany.
 
-📊 Profit Margin by Country
+📊 Profit Margin by Country-
 
 Germany and France show the highest profit margins.
 
 USA has comparatively lower margin despite high sales volume.
 
-🏷 Discount Distribution
+🏷 Discount Distribution-
 
 High discount band accounts for 57.8% of total discounts.
 
 Medium discount contributes 32.6%.
 
-🏆 Top Products by Sales
+🏆 Top Products by Sales-
 
 Paseo leads in total sales.
 
 VTT and Velo follow as strong contributors.
 
-🏢 Profit Margin by Segment
+🏢 Profit Margin by Segment-
 
 Channel Partners segment shows highest profitability.
 
 Enterprise segment shows negative profit margin (-3%).
 
 
-# 🛠 Tools & Technologies:
+## 🛠 Tools & Technologies:
 
 Power BI
 
@@ -77,7 +77,7 @@ Data Modeling
 Data Visualization
 
 
-# 🚀 Conclusion:
+## 🚀 Conclusion:
 
 This dashboard enables stakeholders to monitor financial health, track performance trends, and identify profitability gaps across products and segments.
 
