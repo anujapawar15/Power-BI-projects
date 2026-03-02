@@ -1,25 +1,26 @@
-📊 Financial Performance Dashboard
-📌 Project Overview
+## 📊 Financial Performance Dashboard
+
+# 📌 Project Overview:
 
 This Power BI dashboard provides a comprehensive analysis of financial performance by evaluating key metrics such as Sales, Profit, Orders, Profit Margin, and Discount trends.
 
 The dashboard compares current year performance with prior year data to track growth, identify high-performing regions, and analyze product-level profitability.
 
 
-🎯 Objectives
+# 🎯 Objectives
 
-Analyze year-over-year financial performance
+- Analyze year-over-year financial performance
 
-Identify top-performing countries and segments
+- Identify top-performing countries and segments
 
-Evaluate profit margins across products
+- Evaluate profit margins across products
 
-Understand discount impact on profitability
+- Understand discount impact on profitability
 
-Track monthly and yearly sales trends
+- Track monthly and yearly sales trends
 
 
-📊 Key KPIs
+# 📊 Key KPIs
 
 💰 Total Sales: 9.23M
 
@@ -32,7 +33,8 @@ Track monthly and yearly sales trends
 🏷 Total Discount: 7.05M
 
 
-📈 Dashboard Insights
+# 📈 Dashboard Insights:
+
 🌍 Orders by Country
 
 Canada and France generate the highest number of orders.
@@ -64,7 +66,7 @@ Channel Partners segment shows highest profitability.
 Enterprise segment shows negative profit margin (-3%).
 
 
-🛠 Tools & Technologies
+# 🛠 Tools & Technologies:
 
 Power BI
 
@@ -75,7 +77,7 @@ Data Modeling
 Data Visualization
 
 
-🚀 Conclusion
+# 🚀 Conclusion:
 
 This dashboard enables stakeholders to monitor financial health, track performance trends, and identify profitability gaps across products and segments.
 
