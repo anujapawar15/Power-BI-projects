@@ -76,6 +76,11 @@ Data Transformation
 
 Interactive Filters
 
+## 📷 Dashboard Preview
+
+
+![Pizza Dashboard](<img width="1375" height="786" alt="image" src="https://github.com/user-attachments/assets/8c5c54b8-e8f0-4294-b19b-9c222f2cc804" />)
+
 
 ## 🚀 Conclusion:
 
