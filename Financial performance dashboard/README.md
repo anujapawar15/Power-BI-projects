@@ -70,11 +70,7 @@ Data Modeling
 
 Data Visualization
 
-📷 Dashboard Preview
 
-(Add your screenshot here)
-
-![Financial Dashboard](screenshots/financial_dashboard.png)
 🚀 Conclusion
 
 This dashboard enables stakeholders to monitor financial health, track performance trends, and identify profitability gaps across products and segments.
