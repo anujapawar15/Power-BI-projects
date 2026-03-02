@@ -5,6 +5,7 @@ This Power BI dashboard provides a comprehensive analysis of financial performan
 
 The dashboard compares current year performance with prior year data to track growth, identify high-performing regions, and analyze product-level profitability.
 
+
 🎯 Objectives
 
 Analyze year-over-year financial performance
@@ -17,6 +18,7 @@ Understand discount impact on profitability
 
 Track monthly and yearly sales trends
 
+
 📊 Key KPIs
 
 💰 Total Sales: 9.23M
@@ -28,6 +30,7 @@ Track monthly and yearly sales trends
 📊 Profit Margin: 14.1%
 
 🏷 Total Discount: 7.05M
+
 
 📈 Dashboard Insights
 🌍 Orders by Country
@@ -59,6 +62,7 @@ VTT and Velo follow as strong contributors.
 Channel Partners segment shows highest profitability.
 
 Enterprise segment shows negative profit margin (-3%).
+
 
 🛠 Tools & Technologies
 
