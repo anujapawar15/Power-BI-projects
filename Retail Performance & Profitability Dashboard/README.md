@@ -1,7 +1,7 @@
 🏬 Retail Performance & Profitability Dashboard
 
 📌 Project Overview:
-
+## project
 This Power BI dashboard analyzes retail business performance across multiple regions, customers, and product subcategories.
 
 It provides insights into sales, cost, profit, quantity sold, and quarterly growth trends.
