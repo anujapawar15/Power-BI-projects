@@ -1,11 +1,12 @@
 🏬 Retail Performance & Profitability Dashboard
-📌 Project Overview
+
+📌 Project Overview:
 
 This Power BI dashboard analyzes retail business performance across multiple regions, customers, and product subcategories.
 
 It provides insights into sales, cost, profit, quantity sold, and quarterly growth trends.
 
-🎯 Objectives
+🎯 Objectives:
 
 Analyze total sales, cost, and profit
 
@@ -17,7 +18,7 @@ Track quarterly order trends
 
 Understand regional quantity distribution
 
-📊 Key Metrics
+📊 Key Metrics:
 
 💰 Total Sales: 1.5M
 
@@ -25,7 +26,8 @@ Understand regional quantity distribution
 
 📈 Total Profit: 627.0K
 
-📈 Dashboard Insights
+📈 Dashboard Insights:
+
 🗺 Business by Countries Served
 
 Strong presence across European countries.
@@ -56,7 +58,7 @@ Consistent upward growth trend from 2017 to 2020.
 
 Noticeable spike in 2020 indicating expansion phase.
 
-🛠 Tools & Technologies
+🛠 Tools & Technologies:
 
 Power BI
 
@@ -67,7 +69,7 @@ DAX Calculations
 Interactive Filtering
 
 
-🚀 Conclusion
+🚀 Conclusion:
 
 This dashboard provides a detailed understanding of retail sales performance and profitability across customers and regions.
 
